@@ -1,8 +1,7 @@
-## Hi there 👋
+## Heyo 👋
+- I am a solo gamedev and i love anime and games.
 
 <!--
-**Nero551/Nero551** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
