@@ -1,2 +1,2 @@
-## Heyo 👋
-- I am a solo gamedev , i love anime and games and i use arch.
+## Hi 👋
+- I am a solo gamedev, i love anime and games.
